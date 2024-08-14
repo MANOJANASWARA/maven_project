@@ -68,8 +68,8 @@
 <body>
     <div class="container">
         <div class="content">
-            <h1>Hello ... ! <span class="name">Devops Enthusiast !</span></h1>
-            <p>My name is <span class="highlighted-name">anaswara</span>, I am an <span class="trainer">AWS and DevOps Engineer</span>.</p>
+            <h1>Hello ... ! <span class="name">AWS Enthusiast !</span></h1>
+            <p>My name is <span class="highlighted-name">anaswara manoj</span>, I am an <span class="trainer">AWS and DevOps Engineer</span>.</p>
             <p class="curriculum"><em>My Recommended curriculum to become a DevOps Engineer:</em></p>
             <p><strong>AWS Concepts:</strong> Introduction to Cloud, Cloud Service Providers, AWS Global Infrastructure, S3, EFS, EC2, Auto Scaling, Load Balancers, VPC, IAM, RDS, Dynamo DB, SNS, Cloud Watch, LighSail, Cloud Trial, SQS, SES, Route 53, SnowBall, Elastic BeanStalk, Cloud Formation</p>
             <p><strong>Linux and Shell Scripting</strong></p>
